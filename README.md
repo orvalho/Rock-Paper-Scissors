@@ -1,2 +1,2 @@
 # rock-paper-scissors
-jg game
+Small game built w/ JS to practice JS skills.
